@@ -1,4 +1,4 @@
-### 001-Remote
-*This is the place to find resources related to product "001"*
+# 001-Remote
+This is the place to find resources related to product "001"
 ---
   
